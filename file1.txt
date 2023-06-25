@@ -1,0 +1,10 @@
+Lovely Professional University (LPU) is a private university located in Chaheru, Phagwara, Punjab, India.
+
+Artificial Technology is the simulation of human intelligence processes by machines, especially computer systems . Specific applications of AI include expert systems, natural language processing, speech recognition and machine vision.
+
+cloud computing is the delivery of computing services including servers, storage, databases, networking, software, analytics, and intelligence over the internet  to offer faster innovation, flexible resources, and economies of scale.
+
+This Project is made by Shubham Mehta.
+
+Aakash Ray is topper of the class.
+
